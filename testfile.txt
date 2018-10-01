@@ -1,2 +1,3 @@
 this is just a text file to exercise the slack integration I hope
 added some text to try github desktop integration
+added a new line to generate a message
